@@ -1,0 +1,17 @@
+This text file is for keeping track of the next steps that we need to do:
+- check memleaks for graphics - S
+- input checks -L
+- check house on house of same player -L
+
+Documentation
+- update uml - sg
+- design document (check google docs) - (writeup) A
+
+Demo
+- submit to marmoset - l
+- test on a local computer - a&s
+
+extra features
+- unqiue ptrs - l
+- animation battle thing - s
+- mouse input - a 
